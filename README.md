@@ -55,7 +55,7 @@ pip install medsegbench tqdm torch torchvision
 ---
 ### **Running the Notebook**
  Open the Colab notebook:  
-[Image Segmentation ISIC 2016 Colab Notebook](https://colab.research.google.com/drive/1W4NKWL1D2m-UOln_o4NiSK2Z2YueHHGG)
+[Image Segmentation ISIC 2016 Colab Notebook](https://colab.research.google.com/drive/1-RfUVywxP22AylEh3f3MiBDU2DWsukCW)
 
  Run all cells in the notebook to preprocess data, train the models, and evaluate results.
 
